@@ -26,7 +26,7 @@
 <br />
 
 ### Projects && Contributions:
-<img align="left" alt="scoing.com" width="22px" src="https://avatars2.githubusercontent.com/u/70716578?s=200&v=4" />[scoing]
+[<img align="left" alt="scoing.com" width="22px" src="https://avatars2.githubusercontent.com/u/70716578?s=200&v=4" />][scoing]
 
 [website]: http://deciomachado.com
 [linkedin]: https://www.linkedin.com/in/deciomachado/
